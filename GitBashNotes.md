@@ -30,5 +30,14 @@ vim - open in Vim text editor
 absolute file path - a file path starting with / that soecifies a wunique location
 relative file path - a file path starting with . that defines the relation to the current working directory
 
+## Git Notes
+git status - display the status of the repo
 
+git add <filename> - adds file and its changes to staging
+
+git commit - create a saved stage
+
+git init - initialize a new local repo
+
+git log - display history of commits
 

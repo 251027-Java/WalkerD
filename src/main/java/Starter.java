@@ -17,5 +17,7 @@ public class Starter {
         } catch (Exception e){
             System.out.println("Not a number. Try again!");
         }
+
     }
+    
 }

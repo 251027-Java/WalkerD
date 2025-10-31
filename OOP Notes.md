@@ -18,3 +18,11 @@ E - Encapsulation
 
 - Abstract classes can not be instantiated
 
+- S.O.L.I.D.
+
+- S - single responsibility
+- O - open-closed
+- L - liskov substitution
+- I - interface segregation
+- D - dependency inversion
+

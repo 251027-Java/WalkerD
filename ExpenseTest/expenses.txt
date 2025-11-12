@@ -1,0 +1,3 @@
+[Expense [id=12, date=Tue Nov 04 13:53:08 CST 2025, value=135.99, merchant=ALO], Expense [id=23, date=Tue Nov 04 13:53:08 CST 2025, value=120.0, merchant=Cheesecake Factory], Expense [id=66, date=Tue Nov 04 13:53:08 CST 2025, value=20000.0, merchant=Toyota], Expense [id=15, date=Tue Nov 04 13:53:08 CST 2025, value=50.0, merchant=PrizePicks
+
+]]

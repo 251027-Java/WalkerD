@@ -1,0 +1,7 @@
+id, date, value, merchant
+1, Mon Nov 03 17:38:35 CST 2025, 99.99, 'Amazon'
+11, Mon Nov 03 17:38:35 CST 2025, 35.99, 'YoungLA'
+12, Mon Nov 03 17:38:35 CST 2025, 135.99, 'ALO'
+23, Mon Nov 03 17:38:35 CST 2025, 120.0, 'Cheesecake Factory'
+66, Mon Nov 03 17:38:35 CST 2025, 20000.0, 'Toyota'
+15, Mon Nov 03 17:38:35 CST 2025, 50.0, 'PrizePicks'
